@@ -44,4 +44,3 @@ For any questions or suggestions, feel free to reach out to me on GitHub: [StanO
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose ODM](https://mongoosejs.com/)
-

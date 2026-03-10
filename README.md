@@ -39,7 +39,6 @@ Click on [Social Network API](https://watch.screencastify.com/v/dqnJsgTvSFi22zYJ
 For any questions or suggestions, feel free to reach out to me on GitHub: [StanOp09](https://github.com/StanOp09) or via email: stanleykaopare@gmail.com.
 
 ## Credits
-- Sean Roshan
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose ODM](https://mongoosejs.com/)
